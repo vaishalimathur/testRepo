@@ -8,6 +8,6 @@ Git commands:
   -> git clone
 
 - to link the local repository with the central repository: git remote add origin <link>
-- to fetch files form central repo : git pull
+- to fetch files form central repo : git pull origin master
 - to push your updated remote repo to central: git push
 
